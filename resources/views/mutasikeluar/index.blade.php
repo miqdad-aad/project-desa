@@ -79,7 +79,7 @@
                     @endphp
                     @foreach($penduduk as $d)
                     <tr>
-                    <tr>
+                    <tr>test
                         <td>{{$no++}}</td>
                         <td>{{$d->nama}}</td>
                         <td>{{$d->desa_mutasi}}</td>
